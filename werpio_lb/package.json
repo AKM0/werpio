@@ -1,0 +1,16 @@
+{
+  "name": "werpio_lb",
+  "version": "1.0.0",
+  "description": "werp.io load balancer",
+  "main": "server_lb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AKM0",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {}
+}

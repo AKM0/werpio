@@ -1,0 +1,16 @@
+{
+  "name": "werp.io",
+  "version": "1.0.0",
+  "description": "werp.io release",
+  "main": "game_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AKM0",
+  "license": "",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.2"
+  },
+  "devDependencies": {}
+}
